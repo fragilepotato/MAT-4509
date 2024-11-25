@@ -34,9 +34,7 @@ create_table <- function(data, fleet_name) {
   print(as.data.frame(freq_table$table))  # Convert table to data frame for readability
 }
 
-####################################
-############ Main Code #############
-####################################
+#main code
 
 # Iterate through each fleet type to generate and display frequency tables
 for (i in seq_along(wages_rows)) {
