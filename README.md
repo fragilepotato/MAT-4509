@@ -4,6 +4,9 @@
 This repository contains scripts and data for analyzing the aircraft operating statistics of United Airlines. The analysis is focused on extracting and visualizing information from an Excel file related to.
 This project is part of the **MAT 4509 Assignment** and demonstrates practical applications of statistical analysis and data visualization.
 
+## Name: Md. Mahdi Kamal Alif
+## ID: 22024019
+
 ## Contents
 
 - **Dataset**: 
@@ -40,7 +43,12 @@ This project is part of the **MAT 4509 Assignment** and demonstrates practical a
 - `rstudioapi` - For setting up the working directory dynamically.
 
 
-'''
-    https://github.com/
-'''
+## Clone repository
+```
+## Clone repository
+```
+https://github.com/fragilepotato/MAT-4509.git
+```
+
+```
 
